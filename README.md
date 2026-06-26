@@ -1,5 +1,9 @@
 # Spotify Discord Lyrics Status
 
+<p align="center">
+  <img src="https://files.catbox.moe/ciuhmb.jpg" alt="Banner" width="900">
+</p>
+
 Menampilkan lirik lagu yang sedang diputar di Spotify Desktop ke Custom Status Discord secara otomatis dan real-time.
 
 Program mengambil informasi lagu melalui Windows System Media Transport Controls (SMTC) dan mencari lirik tersinkronisasi menggunakan LRCLIB. Jika lirik tidak tersedia, status Discord akan menampilkan nama artis dan judul lagu sebagai fallback.
